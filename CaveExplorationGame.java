@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class TovshchykOleksandrA5 {
+public class CaveExplorationGame {
     // Colors consts for console output
     public static final String NC = "\u001B[0m"; // No color
     public static final String RED = "\u001B[31m";
